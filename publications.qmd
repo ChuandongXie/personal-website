@@ -1,0 +1,42 @@
+---
+title: "Publications"
+---
+
+## Journal Articles
+
+1. Bakhshivand E, Xie C, Iuorio O, Paradiso F, Previtali B, Bagheri Sabbagh A, Novel additively manufactured connections for cold-formed steel construction: FE investigation. Journal of Constructional Steel Research, 2026, 245: 110510. [DOI](https://doi.org/10.1016/j.jcsr.2026.110510).
+1. Xie C, Bagheri Sabbagh A, Bakhshivand E, Iuorio O, Shape optimisation of metal additive manufacturing connections in lightweight steel structures, Journal of Constructional Steel Research, 2026, 241: 110290. [DOI](https://doi.org/10.1016/j.jcsr.2026.110290).
+1. Liang W, Wang X, Zhang H, Xie C, Lu W, Seismic design and performance of self-centering dual frame lateral force-resisting system. Structures, 2026, 90: 112293. [DOI](https://doi.org/10.1016/j.istruc.2026.112293).
+1. Wang X, Liang W, Zhang J, Xie C, Lu W, Seismic behavior of self-centering concrete-filled square steel tubular frame with trapezoidal corrugated steel plate shear walls, Thin-Walled Structures, 2025, 211: 113117. [DOI](https://doi.org/10.1016/j.tws.2025.113117).
+1. Wang X, Lu W, Wu J, Liang W, Xie C, Experimental behavior, hysteretic model, and finite-element analysis of a low-prestressed self-centering friction dissipative brace, Journal of Constructional Steel Research, 2025, 229: 109511. [DOI](https://doi.org/10.1016/j.jcsr.2025.109511).
+1. Xie, C, Hu, J, Vasdravellis G, Wang X, Cheng S, Explainable AI model for predicting equivalent viscous damping in dual frame-wall resilient system, Journal of Building Engineering, 2024, 110564. [DOI](https://doi.org/10.1016/j.jobe.2024.110564).
+1. Xie C, Wang X, Vasdravellis G, Liang W. Equivalent viscous damping for dual frame-wall resilient system, Journal of Structural Engineering, 2024, 150:04024146. [DOI](https://doi.org/10.1061/JSENDH.STENG-13515).
+1. Xie C, Wang X, Vasdravellis G, Liang W. Displacement profile for direct-displacement based seismic design of dual frame-wall resilient system. Journal of Constructional Steel Research, 2024, 214:108495. [DOI](https://doi.org/10.1016/j.jcsr.2024.108495).
+1. Xie C, Wang X, Vasdravellis G. Steady-state dynamic response analysis of single-degree-of-freedom dual frame-wall resilient system. Soil Dynamics and Earthquake Engineering, 2023, 172:108043. [DOI](https://doi.org/10.1016/j.soildyn.2023.108043).
+1. Xie C, Wang X, Vasdravellis G. Mechanical behaviour and experimental evaluation of self-centring steel plate shear walls considering frame-expansion effects. Journal of Building Engineering, 2023, 72:106636. [DOI](https://doi.org/10.1016/j.jobe.2023.106636).
+1. Wang X, Xie C, Jia Z, Vasdravellis G. Seismic behaviour of post-tensioned beam-to-column connection using slender energy-dissipating rectangles. Engineering Structures, 2022, 250:113444. [DOI](https://doi.org/10.1016/j.engstruct.2021.113444).
+1. Wang X, Xie C, Luo Y, Zhang J. Experimental and analytical investigation on post-tensioned beam-to-CFST column connection using wedge-shaped devices. Journal of Constructional Steel Research, 2020, 169:106052. [DOI](https://doi.org/10.1016/j.jcsr.2020.106052).
+1. Wang X, Xie C, Lin LH, Li J. Seismic behavior of self-centering concrete-filled square steel tubular (CFST) column base. Journal of Constructional Steel Research, 2019, 156:75-85. [DOI](https://doi.org/10.1016/j.jcsr.2019.01.025).
+1. Wang X, Xie C. Experimental and Numerical Investigation of steel beam-to-CFST column frame-thin steel plate shear walls with cross stiffness. Int J Steel Struct, 2019, 19(6):1895-1910. [DOI](https://doi.org/10.1007/s13296-019-00253-z).
+1. Xie C, Wang X, Guo Y, Yang B, Wang H. Experimental study on seismic behavior of prefabricated self-centering concrete-filled square steel tubular frame with slotted energy-dissipating plates. Journal of Building Structures, 2024, 45(8): 154-167. [Link](http://old.jzjgxb.com/CN/10.14006/j.jzjgxb.2022.0503).
+1. Wang X, Xie C, Luo Y, Zhang J. Experimental study on seismic behavior of self-centering concrete-filled square steel tubular column-steel beam frame joint with wedge-shaped device. Journal of Building Structures, 2021, 42(9): 52-61. [Link](http://old.jzjgxb.com/CN/10.14006/j.jzjgxb.2019.0529).
+1. Wang X, Xie C, Lin L, Luo Y, He L, Jia Z. Experimental study on seismic behavior of self-centering concrete-filled square steel tubular column base with external prestressing. Journal of Building Structures, 2020, 41(10): 67-77. [Link](http://old.jzjgxb.com/CN/10.14006/j.jzjgxb.2018.0679).
+1. Wang X, Xie C, Li J, Lin L, Luo Y. Seismic behavior of self-centering concrete-filled square steel tubular frame with energy dissipating steel plates. Journal of Building Structures, 2020, 41(09): 1-12. [Link](http://old.jzjgxb.com/CN/10.14006/j.jzjgxb.2019.0110).
+
+## Conference Papers
+
+1. Xie C, Bagheri Sabbagh A, Bakhshivand E, Iuorio O. A novel optimised additively manufactured connection for hybrid semi-rigid lightweight steel framing. In: The 11th European Scientific Conference on Steel and Composite Structures. Cracow, Poland, 2026. [DOI](https://doi.org/10.1002/cepa.70615).
+1. Xie C, Wang X, Vasdravellis G. Steady-state response of a high-strength moment-resisting steel frame-self-centering steel plate shear wall system. In: 9th ECCOMAS Thematic Conference on Computational Methods in Structural Dynamics and Earthquake Engineering. Athens, Greece, 2023. [Link](https://files.eccomasproceedia.org/papers/compdyn-2023/C23_21000.pdf?mtime=20231027201519)
+1. Xie C, Wang X, Vasdravellis G. Experimental investigation of self-centering steel plate shear walls with rocking bases. In: 13th Pacific Structural Steel Conference. Chengdu, China, 2023.
+1. Xie C, Wang X, Liang W. Finite element analysis of self-centering steel plate shear wall. In: 32nd National Conference on Structural Engineering. Ganzhou, China, 2023.
+1. Xie C, Wang X, Lin L. Finite element analysis of self-centering concrete-filled square steel tubular (CFST) column base. In: 19th National Symposium on Structural Engineering. Hangzhou, China, 2019.
+
+## Patents
+
+1.  Iuorio O; Bagheri Sabbagh A; Previtali B; Bakhshivand E; Xie C. Patent-pending on Additively Manufactured Connections for Cold-Formed Steel Construction (No. 102025000010515, dated 09/05/2025). PCT application on May 7, 2026, PCT/EP2026/063333. Joint application with Politecnico di Milano. [Link](https://re.public.polimi.it/handle/11311/1308654)
+1.   Wang X, Xie C, Jia Z, Guo Y, Wang H, Li B. An innovative self-centering steel plate shear wall system. Invention patent, 2020: ZL202010720562.9, China.
+1.  Wang X, Xie C, He L, Zhang J, Luo Y. An innovative energy-dissipating device and self-centering connection. Invention patent, 2019: ZL201910391571.5, China.
+1.  Wang X, Xie C, Feng Y, Luo Y, Ding Y, Liu C, Zhang J. An innovative self-centring steel plate shear wall with cross post-tensioned strands. Invention patent, 2019: ZL201810390807.9, China.
+1.   Wang X, Xie C, Liang X, Yan C, Zhao L, Guo X. Precast double-skin concrete-filled steel tube member. Utility model patent, 2019: ZL201920840727.9, China.
+1.  Wang X, Xie C, Liu C, Zhang J, Jia Z. An innovative vertical boundary element for steel plate shear wall. Utility model patent, 2019: ZL201920274249.X, China.
+1.  Wang X, Xie C, Ding Y, Luo Y, Liang X, Hou X, Liu C. An innovative self-centering beam-to-column connection with slotted energy-dissipating steel plates. Utility model patent, 2018: ZL201820973242.2, China.

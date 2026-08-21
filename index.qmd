@@ -1,7 +1,35 @@
 ---
-title: "website_cx"
+# title: "Chuandong Xie"
 ---
 
-This is a Quarto website.
+<div class="home-intro">
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Chuandong Xie
+
+**Research Fellow in Structural Engineering, University of Aberdeen**
+
+</div>
+
+::: {.home-content}
+
+I am a structural engineering researcher working at the intersection of resilient structural systems, metal additive manufacturing, structural optimisation, computational mechanics, and data-driven engineering.
+
+I obtained my PhD in Structural Engineering from Xi'an University of Architecture & Technology in 2024. 
+
+My research integrates large-scale experimental testing, finite element analysis, nonlinear dynamics, machine learning and explainable AI to understand structural behaviour and develop resilience-oriented engineering solutions. 
+
+I have experience in post-event structural investigation, scientific programming and industry-engaged engineering, alongside university teaching, supervision and interdisciplinary research collaboration.
+
+
+
+
+## Research interests
+
+- Resilient and self-centring structural systems
+- Performance-based seismic deisgn
+- Metal additive manufacturing for structural applications
+- Structural optimisation and generative design
+- Computational mechanics and finite element modelling
+- Machine learning and explainable AI for engineering
+
+:::
