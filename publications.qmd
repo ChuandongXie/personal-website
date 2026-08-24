@@ -4,6 +4,7 @@ title: "Publications"
 
 ## Journal Articles
 
+1. Xie C, Bakhshivand E, Guo X, Panda A, Bagheri Sabbagh A, Kyvelou P, Gardner L, Cyclic tests on side-frame lightweight steel floor-to-wall joints. Engineering Structures (Under review).
 1. Bakhshivand E, Xie C, Iuorio O, Paradiso F, Previtali B, Bagheri Sabbagh A, Novel additively manufactured connections for cold-formed steel construction: FE investigation. Journal of Constructional Steel Research, 2026, 245: 110510. [DOI](https://doi.org/10.1016/j.jcsr.2026.110510).
 1. Xie C, Bagheri Sabbagh A, Bakhshivand E, Iuorio O, Shape optimisation of metal additive manufacturing connections in lightweight steel structures, Journal of Constructional Steel Research, 2026, 241: 110290. [DOI](https://doi.org/10.1016/j.jcsr.2026.110290).
 1. Liang W, Wang X, Zhang H, Xie C, Lu W, Seismic design and performance of self-centering dual frame lateral force-resisting system. Structures, 2026, 90: 112293. [DOI](https://doi.org/10.1016/j.istruc.2026.112293).
@@ -40,3 +41,6 @@ title: "Publications"
 1.   Wang X, Xie C, Liang X, Yan C, Zhao L, Guo X. Precast double-skin concrete-filled steel tube member. Utility model patent, 2019: ZL201920840727.9, China.
 1.  Wang X, Xie C, Liu C, Zhang J, Jia Z. An innovative vertical boundary element for steel plate shear wall. Utility model patent, 2019: ZL201920274249.X, China.
 1.  Wang X, Xie C, Ding Y, Luo Y, Liang X, Hou X, Liu C. An innovative self-centering beam-to-column connection with slotted energy-dissipating steel plates. Utility model patent, 2018: ZL201820973242.2, China.
+
+## Open Research Data
+Xie C, Bakhshivand E, Guo X, Panda A, Bagheri Sabbagh A, Kyvelou P, & Gardner L (2026). Cyclic tests on side-frame lightweight steel floor-to-wall joints. [https://doi.org/10.5281/zenodo.21903343](https://doi.org/10.5281/zenodo.21903343) (Available soon).
