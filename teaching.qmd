@@ -5,6 +5,7 @@ title: "Teaching & Supervision"
 # 2025-2026
 ## Modern Construction (EG557E, EG557F), UoA, UK
 Contributed to course design and delivered lectures/tutorials on machine learning, genetic algorithms and SAP2000-based structural modelling, with applications to cold-formed steel structures incorporating metal additive-manufacturing connections.
+
 ![Jupyter notebook for Modern Construction](images/teaching/eg5573e_jupyterlab.png){width=60%}
 
 ## MSc Individual Project (EG59M2), UoA, UK

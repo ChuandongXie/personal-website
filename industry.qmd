@@ -9,7 +9,7 @@ University of Aberdeen × Bespoke Steel Buildings Ltd, UK
 1. Integrated structural analysis, section databases, automated design verification, reporting and visualisation within the software workflow.
 1. Engaged with the industrial partner to translate practical design requirements into computational methods and software functionality.
 
-![PFDesigner V0.2.2](images/industry/pfdesigner.png){width=60%}
+![PFDesigner V0.2.2](images/industry/pfdesigner.png){width=80%}
 
 # Structural Engineering Projects (China)
 
